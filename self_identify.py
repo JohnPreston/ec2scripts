@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import os, re
 import json
 import boto3
 import requests
